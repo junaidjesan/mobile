@@ -8,7 +8,7 @@ export default function Footer() {
               for="search"
               class="mb-2 text-sm font-medium text-gray-900 sr-only"
             >
-              Message
+              Messages
             </label>
             <div class="relative">
               <div class="text-black absolute mt-4 ml-2 left-0 flex items-center px-1 py-1 bg-slate-300 rounded-full">
